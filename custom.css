@@ -1,0 +1,95 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.tellimisnupp{
+    align-items: flex-end;
+    margin-right: 3px; 
+    
+}
+
+.fa-brands{
+    margin: 10px;
+
+}
+
+.jumbotron {
+    background-image: url("kirsioied.jpg");
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.display-4 {
+
+    color: rgb(131, 0, 109);
+}
+
+.lead1 {
+
+    color: rgb(255, 59, 157);
+    font-size:35px;
+	line-height:30px;
+   
+    
+}
+
+
+
+
+.carousel-inner {
+
+    width: 100%;
+    height: 30%;
+
+}
+
+
+.seebitekst{
+
+    text-align: justify;
+
+
+}
+.rounded-circle float-right{
+
+    width: 100%;
+
+
+}
+
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
